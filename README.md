@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afonso Martingo Carvalho</h1>
 <h3 align="center">A passionate AI enthusiast and Machine Learning aficionado from Portugal, with a background in Electrical and Computer Engineering.</h3>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/afonso-martingo-carvalho](https://sites.google.com/view/afonso-martingo-carvalho)
-
 - 📫 How to reach me **afonso.martingo.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
