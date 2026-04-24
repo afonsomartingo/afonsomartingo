@@ -20,10 +20,9 @@
 
 ### About
 
-- ECE background, now focused on **applied ML** and **LLM-powered tooling**.
+- ECE background, now focused on **applied ML** and **Generative AI**.
 - Currently building **Paper_RAG** — a LangChain + OpenAI framework for querying scientific literature.
 - Deepening foundations through the **Machine Learning Specialization** (Supervised · Advanced · Unsupervised/RL).
-- Exploring **Supabase**, **React**, and **n8n** for full-stack AI workflow automation.
 
 ### Tech stack
 
